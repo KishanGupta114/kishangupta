@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bgImg{
+    height: 100vh;
+    width: 100%;
+    background-image: url('backImg.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+.hey{
+    font-size: 3rem;
+    justify-content: left;
+    text-align: left;
+    
+    margin: 300px;
+    
+
+}
+.profile{
+    width: 350px;
+    background-color: rgba(255, 0, 119, 0.178);
+    padding: 25px 0px;
+    border-radius: 10%;
+    
+}
+
+.profileText {
+    
+    margin-bottom: 10px;
+}
+
+.profileText h2{
+    font-size: 2em;
+    font-weight: 500px;
+    margin-bottom: 10px;
+}
+
+.profileText h3{
+    font-size: 1.5em;
+    font-weight: 100px;
+    margin-bottom: 10px;
+}
+
+img{
+    height: 300px;
+    border-radius: 80px;
+}
+i{
+    color: white;
+}
