@@ -6,9 +6,7 @@
 }
 
 body {
-    background-image: url("bkc.jpg"); 
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: #333;
 }
 .middle {
     position: absolute;
